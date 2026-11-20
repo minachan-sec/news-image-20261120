@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/news-image-20261120/minachan-sec/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/minachan-sec/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
+> **DRAFT (20 Nov 2026, ~01:30 UTC):** the news day had barely started when this image was built — only 4 stories were verifiable, so the featured grid and index are marked Saturday slots. The final refresh happens Saturday morning after the news day closes, before any submission.
+
 A newspaper front page summing up **Friday 20 November 2026** in a single
 1024×1024 image, for the
 [Sum up 20 November's world news in one image](https://make.fun/bounty/news-image-20261120)
