@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261120/minachan-sec/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![reward](https://make.fun/badge/news-image-20261120/minachan-sec/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-> **DRAFT (20 Nov 2026, ~01:30 UTC):** the news day had barely started when this image was built — only 4 stories were verifiable, so the featured grid and index are marked Saturday slots. The final refresh happens Saturday morning after the news day closes, before any submission.
+> **Final (21 Nov 2026):** 43 stories verified as happening or first reported on Friday 20 November 2026 — 4 heroes, 12 featured, 27 further stories, plus a DATE CHECK box naming the big 19 November stories deliberately left out. Built Saturday morning after the news day closed (07:00 WIB).
 
 A newspaper front page summing up **Friday 20 November 2026** in a single
 1024×1024 image, for the
@@ -20,8 +20,8 @@ hero stories with composed illustrations, twelve featured stories, a
 world map with numbered pins, an index of further stories, and a
 DATE CHECK box that names the stories deliberately left out because they
 broke on another day. Every story was verified against reporting from
-Friday 20 November 2026 (Reuters, BBC, AP, AFP and others); disputed
-claims are attributed on the page.
+Friday 20 November 2026 (AP, Reuters, CNN, Kyiv Independent, IMD, UNICEF);
+disputed claims are attributed on the page.
 
 ## Handing it in
 
